@@ -7,4 +7,5 @@ public class TestBranch {
 //creating some conflict!
 
 //added a line
+//new line
 }
